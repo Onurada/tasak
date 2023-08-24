@@ -1,1 +1,1 @@
-1
+_G.kakabokyarak = true
